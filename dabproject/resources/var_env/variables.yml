@@ -1,0 +1,4 @@
+variables:
+  catalog_name:
+    description: catalog_name based on environment.
+    default: assetbundles_cata
